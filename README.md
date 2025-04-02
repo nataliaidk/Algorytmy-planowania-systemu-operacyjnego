@@ -14,6 +14,4 @@ Funkcjonalności:
 
   - RR (Round Robin)
 
-  - Priority Scheduling
-
 Pomiar czasu wykonania dla każdego algorytmu.
