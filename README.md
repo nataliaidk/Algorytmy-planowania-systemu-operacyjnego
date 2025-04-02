@@ -4,16 +4,16 @@ Projekt ten jest implementacją w Javie, która symuluje generowanie procesów w
 
 Funkcjonalności:
 
-Generowanie procesów o losowych parametrach (czas przybycia, czas wykonania, priorytet itp.).
+   - Generowanie procesów o losowych parametrach (czas przybycia, czas wykonania, priorytet itp.).
 
-Implementacja różnych algorytmów planowania procesów, takich jak:
+  - Implementacja różnych algorytmów planowania procesów, takich jak:
 
-FCFS (First-Come, First-Served)
+  - FCFS (First-Come, First-Served)
 
-SJF (Shortest Job First)
+  - SJF (Shortest Job First)
 
-RR (Round Robin)
+  - RR (Round Robin)
 
-Priority Scheduling
+  - Priority Scheduling
 
 Pomiar czasu wykonania dla każdego algorytmu.
